@@ -40,10 +40,12 @@ layout: default
             {{ content }}
           </div>
 
+	  <script>/*
           {% if page.news -%}
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
+          */</script>
           {% if page.selected_papers -%}
             <!-- Selected papers -->
             {%- include selected_papers.html %}
@@ -61,6 +63,8 @@ layout: default
             
           </div>
           {%- endif %}
+          
+
         </article>
 
 </div>
