@@ -7,7 +7,7 @@ subtitle: firstname.lastname (at) tu-berlin.de
 
 profile:
   align: right
-  image: oliver.jpg
+  image: oeberle_website.jpg
   image_circular: false # crops the image to make it circular
   
 #  address: >
