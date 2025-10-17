@@ -18,7 +18,6 @@ keywords: explainable-ai, XAI, explainable-machine-learning, deep-learning, mach
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-
 url: https://oeberle.github.io # the base hostname & protocol for your site
 baseurl: #/al-folio # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
@@ -71,6 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: oeberle # your GitHub user name
 gitlab_username: # your GitLab user name
+<<<<<<< HEAD
 x_username: EberleOliver # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: eberleoliver # your LinkedIn user name
@@ -78,6 +78,11 @@ telegram_username: # your Telegram user name
 scholar_userid: vZB4qw0AAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+=======
+twitter_username: EberleOliver # your Twitter handle
+linkedin_username: eberleoliver # your LinkedIn user name
+scholar_userid: vZB4qw0AAAAJ # your Google Scholar ID
+>>>>>>> 301bfa7d84fac4f5062e29c781e935488eda0607
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -125,6 +130,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: #al-folio # blog_name will be displayed in your blog page
+<<<<<<< HEAD
+=======
+blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+>>>>>>> 301bfa7d84fac4f5062e29c781e935488eda0607
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -276,12 +285,17 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   last_name: [Einstein]
   first_name: [Albert, A.]
 =======
   last_name: Eberle
   first_name: [Oliver]
 >>>>>>> 0cf4bbe4 (profiles)
+=======
+  last_name: Eberle
+  first_name: [Oliver]
+>>>>>>> 301bfa7d84fac4f5062e29c781e935488eda0607
 
   style: apa
   locale: en
@@ -366,10 +380,20 @@ enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
+<<<<<<< HEAD
 enable_tooltips:            false  # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into multiple categories
+=======
+enable_tooltips:            false  # enables automatic tooltip links generated
+                                   # for each section titles on pages and posts
+enable_darkmode:            false   # enables switching between light/dark modes
+enable_navbar_social:       false  # enables displaying social links in the
+                                   # navbar on the about page
+enable_project_categories:  true   # enables categorization of projects into
+                                   # multiple categories
+>>>>>>> 301bfa7d84fac4f5062e29c781e935488eda0607
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
 
