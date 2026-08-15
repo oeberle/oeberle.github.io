@@ -106,7 +106,7 @@ bib_search: true
 max_width: 930px
 
 # Control display of social icons in the navbar
-enable_navbar_social: true
+#enable_navbar_social: true
 
 # Social handles (migrated from old site)
 linkedin_username: eberleoliver
