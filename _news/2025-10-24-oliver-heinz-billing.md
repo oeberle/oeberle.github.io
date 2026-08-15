@@ -4,7 +4,6 @@ title: Oliver Eberle receives the 2025 Heinz‑Billing Prize awarded by the Max 
 date: 2025-10-24 10:00:00+0000
 inline: true
 related_posts: false
-
 ---
 
 Oliver Eberle has been awarded the 2025 Heinz‑Billing Prize for the Advancement of Scientific Computing. The award was announced 24 Oct 2025 (ceremony 23–24 Oct 2025) in recognition of contributions to digital humanities and scientific computing.

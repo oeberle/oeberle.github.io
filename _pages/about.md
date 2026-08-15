@@ -27,7 +27,6 @@ Senior Researcher
 [Technische Universität Berlin](https://www.ml.tu-berlin.de/menue/machine_learning/)  
 [The Berlin Institute for the Foundations of Learning (BIFOLD)](https://bifold.berlin/)
 
-
 **Explainable AI** and **Deep Learning**
 
 - Natural Language Processing
