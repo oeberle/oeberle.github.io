@@ -6,7 +6,7 @@ subtitle: Research on the Foundations of AI Interpretability
 
 profile:
   align: right
-  image: oeberle_website.jpg
+  image: oeberle_website.png
   # using updated site image
   image_circular: false # crops the image to make it circular
   #more_info: >
