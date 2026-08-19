@@ -15,12 +15,20 @@ profile:
   #  <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+
 social: false # hide social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
+
+
+scholar:
+  sort_by: year
+  order: descending  # can be either "ascending" or "descending"
+# type_names: { Unpublished: Preprints }
+
 ---
 
 Senior Researcher  
