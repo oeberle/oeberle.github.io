@@ -26,6 +26,9 @@ announcements:
 scholar:
   sort_by: year
   order: descending # can be either "ascending" or "descending"
+  query: "@*"
+  group_by: year
+  group_order: descending
 # type_names: { Unpublished: Preprints }
 ---
 
