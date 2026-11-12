@@ -1,0 +1,11 @@
+/* Light mode */
+:root {
+  --global-theme-color: rgb(0, 7, 193);
+  --global-hover-color: rgb(2, 8, 175);
+}
+
+/* Dark mode */
+html[data-theme="dark"] {
+  --global-theme-color: #f4ebd4;
+  --global-hover-color: #ebdab0;
+}
