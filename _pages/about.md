@@ -32,7 +32,7 @@ scholar:
 # type_names: { Unpublished: Preprints }
 ---
 
-Senior Researcher  
+Principal Researcher  
 [Technische Universität Berlin](https://www.ml.tu-berlin.de/menue/machine_learning/)  
 [The Berlin Institute for the Foundations of Learning (BIFOLD)](https://bifold.berlin/)
 
@@ -40,5 +40,5 @@ Senior Researcher
 
 - Natural Language Processing
 - Computer Vision
-- Digital Humanities
-- Human Cognition
+- AI-based Methods in the Humanities
+- Cognition & AI
